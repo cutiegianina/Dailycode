@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DailyCoding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ef98fce24b0f009acbbe998f30254693981b07d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DailyCoding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DailyCoding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

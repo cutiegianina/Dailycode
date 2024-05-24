@@ -1,0 +1,15 @@
+C:\Richard Puig\Daily Coding\DailyCoding\bin\Debug\net8.0\DailyCoding.exe
+C:\Richard Puig\Daily Coding\DailyCoding\bin\Debug\net8.0\DailyCoding.deps.json
+C:\Richard Puig\Daily Coding\DailyCoding\bin\Debug\net8.0\DailyCoding.runtimeconfig.json
+C:\Richard Puig\Daily Coding\DailyCoding\bin\Debug\net8.0\DailyCoding.dll
+C:\Richard Puig\Daily Coding\DailyCoding\bin\Debug\net8.0\DailyCoding.pdb
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\DailyCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\DailyCoding.AssemblyInfoInputs.cache
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\DailyCoding.AssemblyInfo.cs
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\DailyCoding.csproj.CoreCompileInputs.cache
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\DailyCoding.sourcelink.json
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\DailyCoding.dll
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\refint\DailyCoding.dll
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\DailyCoding.pdb
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\DailyCoding.genruntimeconfig.cache
+C:\Richard Puig\Daily Coding\DailyCoding\obj\Debug\net8.0\ref\DailyCoding.dll
